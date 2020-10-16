@@ -32,7 +32,7 @@ The possible errors are :
 
 ## Github
 
-Repository: [https://github.com/emilie-git/operation](https://github.com/emilie-git/operation)
+Repository: [https://github.com/emilie-git/ti-operation/](https://github.com/emilie-git/ti-operation/)
 
 
 ## Version
